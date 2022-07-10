@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="fecha">26 de octubre, 1978</string>
+    <string name="telefono">+51 912-659-101</string>
+    <string name="casa">Lima, Peru</string>
+    <string name="email">jlozano@san-fernando.com.pe</string>
+    <string name="Experience">Data analyst and business intelligence for decision making, using Tableau and related tools.</string>
+    <string name="cesaralva">Jhon Max</string>
+</resources>
